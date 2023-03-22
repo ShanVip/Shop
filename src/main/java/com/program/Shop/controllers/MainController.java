@@ -1,4 +1,4 @@
-package com.program.shop.controllers;
+package com.program.Shop.controllers;
 
 
 import com.program.Shop.modeles.Item;

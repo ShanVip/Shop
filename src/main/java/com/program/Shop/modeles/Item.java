@@ -1,4 +1,4 @@
-package com.program.shop.modeles;
+package com.program.Shop.modeles;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
