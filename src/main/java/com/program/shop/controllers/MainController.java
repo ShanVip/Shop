@@ -1,8 +1,8 @@
 package com.program.shop.controllers;
 
 
-import com.program.shop.modeles.Item;
-import com.program.shop.repo.ItemRepository;
+import com.program.Shop.modeles.Item;
+import com.program.Shop.repo.ItemRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
